@@ -1,7 +1,7 @@
-program_name=day1.cpp
+program_name=day0.cpp
 
 all:
-	g++ -std=c++14 day1.cpp
+	g++ -std=c++14 day0.cpp
 
 run:
 	./a.out
