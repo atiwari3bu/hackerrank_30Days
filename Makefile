@@ -1,4 +1,4 @@
-program_name=day5.cpp
+program_name=day6.cpp
 
 all:
 	g++ -std=c++14 $(program_name)
